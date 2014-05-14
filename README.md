@@ -1,0 +1,4 @@
+huffmanTree
+===========
+
+data structure assignment
